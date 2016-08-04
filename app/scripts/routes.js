@@ -74,6 +74,10 @@ angular.module('contentcalendarApp')
         templateUrl: 'views/account.html',
         controller: 'AccountCtrl'
       })
+      .when('/add/', {
+        templateUrl: 'views/add-entry.html',
+        controller: 'AddEntryCtrl'
+      })
       .otherwise({redirectTo: '/'});
   }])
 
