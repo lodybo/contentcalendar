@@ -1,0 +1,9 @@
+{
+  "name": "Contentkalender",
+  "short_name": "Contentkalender",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#5BC0DE"
+}
